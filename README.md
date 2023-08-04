@@ -88,3 +88,5 @@ If you need help with this project, or with Hardhat in general, please read [thi
 For the latest news about Hardhat, [follow us on Twitter](https://twitter.com/HardhatHQ), and don't forget to star [our GitHub repository](https://github.com/NomicFoundation/hardhat)!
 
 **Happy _building_!**
+
+翻译参考：https://learnblockchain.cn/article/1356
